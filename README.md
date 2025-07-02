@@ -10,7 +10,7 @@ Este projeto é uma API REST de autenticação de usuários utilizando **FastAPI
 - ✅ Login com verificação de credenciais e geração de token JWT
 - ✅ Proteção de rotas usando autenticação via Bearer Token
 - ✅ Rota segura `/me` que retorna dados do usuário autenticado
-- ✅ Documentação automática com Swagger (acessível via `/docs`)
+- ✅ Documentação automática com Swagger
 - ✅ Testes automatizados com `pytest` e `httpx`
 
 ---
@@ -31,7 +31,7 @@ Este projeto é uma API REST de autenticação de usuários utilizando **FastAPI
 
 🧠 O que eu aprendi com esse projeto
 
-Durante o desenvolvimento desta API, aprendi conceitos importantes e habilidades práticas fundamentais para atuar como desenvolvedor back-end:
+Durante o desenvolvimento desta API, aprendi conceitos importantes e habilidades práticas fundamentais para o back-end:
 
 - 📦 **Organização modular** de um projeto com FastAPI
 - 🔐 **Segurança na autenticação** usando JWT e criptografia de senhas
@@ -41,7 +41,5 @@ Durante o desenvolvimento desta API, aprendi conceitos importantes e habilidades
 - 🛠️ **Integração de ferramentas modernas** de autenticação e documentação automática
 
 ---
-
-📄 Licença
 
 Desenvolvido por **Caio Silva**.
