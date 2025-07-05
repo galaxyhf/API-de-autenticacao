@@ -1,4 +1,4 @@
-🔐 API de Autenticação com JWT — FastAPI + PostgreSQL
+🔐 **API de Autenticação com JWT — FastAPI + PostgreSQL**
 
 Este projeto é uma API REST de autenticação de usuários utilizando **FastAPI**, **PostgreSQL** e **JWT (JSON Web Token)**. Ele fornece uma base segura, moderna e escalável para aplicações back-end que exigem controle de acesso, como sistemas de login, áreas protegidas e dashboards administrativos.
 
